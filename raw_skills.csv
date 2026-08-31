@@ -1,0 +1,13 @@
+job_role,skills
+Data Scientist,"python,sql,machine learning,statistics,data analysis,pandas,numpy,visualization"
+DevOps Engineer,"aws,docker,kubernetes,ci/cd,automation,linux,terraform,cloud"
+Backend Developer,"java,python,sql,apis,microservices,databases,git,data structures"
+Frontend Developer,"javascript,react,css,html,typescript,web design,ui/ux,git"
+Cloud Architect,"aws,azure,cloud,networking,security,automation,terraform,kubernetes"
+Machine Learning Engineer,"python,machine learning,tensorflow,pytorch,mlops,statistics,data structures"
+Data Engineer,"python,sql,etl,spark,airflow,cloud,data structures,databases"
+Full Stack Developer,"javascript,react,python,sql,apis,git,html,css"
+Site Reliability Engineer,"linux,automation,kubernetes,monitoring,ci/cd,cloud,python,networking"
+Security Engineer,"security,networking,linux,automation,cloud,python,cryptography"
+Mobile Developer,"java,kotlin,swift,mobile,ui/ux,git,apis,android"
+Database Administrator,"sql,databases,linux,backup,performance tuning,security,automation"
